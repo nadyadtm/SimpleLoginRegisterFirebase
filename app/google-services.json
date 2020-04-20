@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634612192200",
+    "firebase_url": "https://simpleloginregisterfirebase.firebaseio.com",
+    "project_id": "simpleloginregisterfirebase",
+    "storage_bucket": "simpleloginregisterfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634612192200:android:4542ab24f94929d2f166fd",
+        "android_client_info": {
+          "package_name": "com.example.simpleloginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634612192200-g70l8euo3r0ao3qtvaklehv542icbok7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simpleloginregisterfirebase",
+            "certificate_hash": "9cb1acee775b37a916d5c844b57a640b4a01df0a"
+          }
+        },
+        {
+          "client_id": "634612192200-cf4etng09he79gsl4rslg05582sb5nn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDUYGmuFVSuTatsWCWSpH7L9Fk8-Y2Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634612192200-cf4etng09he79gsl4rslg05582sb5nn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
